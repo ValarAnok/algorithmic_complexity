@@ -2,6 +2,7 @@
 analiza złożoności obliczeniowej
 
 fibonacii iteracja
+
 ![fib_iter](https://user-images.githubusercontent.com/117569569/200169824-76b1e9b7-4bf8-418d-849e-f29206a075e2.png)
 ```py
 
@@ -37,6 +38,7 @@ def fibo(n):
  ```
  
 ![porownanie it_rek](https://user-images.githubusercontent.com/117569569/200170404-a23d0657-7674-4f81-a013-245956d640ba.png)
+
 Wykres przedstawia zależność czasu od liczby Fibonacciego. 
 Kolor pomarańczowy - funkcja przy użyciu Fibonacciego rekurencyjnego
 Kolor niebieski - funkcja przy użyciu Fibonacciego iteracyjnego 
