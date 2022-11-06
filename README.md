@@ -1,7 +1,8 @@
 # algorithmic_complexity
 analiza złożoności obliczeniowej
 
-##fibonacii iteracja
+fibonacii iteracja
+![fib_iter](https://user-images.githubusercontent.com/117569569/200169824-76b1e9b7-4bf8-418d-849e-f29206a075e2.png)
 ```py
 
 def fibo(n):
@@ -15,7 +16,12 @@ def fibo(n):
         
     return a[n]
  ```
- ##fibonacci rekurencja
+ 
+ 
+ 
+ fibonacci rekurencja
+ ![fib_rek](https://user-images.githubusercontent.com/117569569/200169837-d0f35275-87ed-4b85-83d2-5f2f19094330.png)
+ 
  ```py
  def fib(n):
     if n<0:
@@ -28,6 +34,5 @@ def fibo(n):
         return False
     
  ```
- 
-![szybki fib](https://user-images.githubusercontent.com/117569569/200168552-e30d0e48-5c96-4127-bed5-578bf5efc5e2.png)
-![wolny fib](https://user-images.githubusercontent.com/117569569/200168554-9aedb796-7abc-4199-8c1f-624df950bfd5.png)
+
+
