@@ -13,3 +13,5 @@ def fibo(n):
     return a[n]
  ```
  
+![szybki fib](https://user-images.githubusercontent.com/117569569/200168552-e30d0e48-5c96-4127-bed5-578bf5efc5e2.png)
+![wolny fib](https://user-images.githubusercontent.com/117569569/200168554-9aedb796-7abc-4199-8c1f-624df950bfd5.png)
